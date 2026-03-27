@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>BACKEND &amp; CLOUD</h3>
+              <h4>Scalable Systems for Enterprise Platforms</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Building production-grade microservices and cloud-native
+                architectures — REST APIs, real-time messaging, and CI/CD
+                automation that handle millions of transactions reliably.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Java &amp; Spring Boot</div>
+                <div className="what-tags">Microservices</div>
+                <div className="what-tags">AWS &amp; Azure</div>
+                <div className="what-tags">Docker &amp; Kubernetes</div>
+                <div className="what-tags">CI/CD Pipelines</div>
+                <div className="what-tags">REST APIs</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>FULL STACK &amp; DEVOPS</h3>
+              <h4>End-to-End Product Delivery</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                From React frontends to PostgreSQL databases — I own the full
+                stack and automate deployments so teams ship faster with
+                confidence.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">React &amp; Node.js</div>
+                <div className="what-tags">PostgreSQL &amp; MySQL</div>
+                <div className="what-tags">Terraform</div>
+                <div className="what-tags">Jenkins</div>
+                <div className="what-tags">WebSocket &amp; Webhooks</div>
+                <div className="what-tags">Performance Optimization</div>
               </div>
               <div className="what-arrow"></div>
             </div>

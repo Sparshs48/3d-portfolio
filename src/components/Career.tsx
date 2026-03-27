@@ -15,58 +15,35 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Software Engineer</h4>
+                <h5>Findways · USA</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building communication platform features with Spring Boot and
+              React/React Native — real-time messaging, WebSocket & WhatsApp
+              Business API integration enabling 1,000+ concurrent conversations.
+              Deployed containerized microservices on AWS EKS with Terraform and
+              Kubernetes; established CI/CD pipelines with GitHub, AWS CodeBuild,
+              and CodePipeline boosting deployment speed 40%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Software Engineer</h4>
+                <h5>Accenture · India</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2021–23</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
-              </div>
-              <h3>2016–17</h3>
-            </div>
-            <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Developed REST APIs and scalable microservices in Java, Spring Boot,
+              and Hibernate supporting 5M+ monthly operations. Containerized legacy
+              monoliths with Docker and Kubernetes, migrating to Azure cloud.
+              Accelerated release cycles 25% via Jenkins and Azure DevOps CI/CD.
+              Built React dashboards with Power BI integration, reducing reporting
+              efforts by 30% and optimizing SQL query execution time by 20%.
             </p>
           </div>
         </div>

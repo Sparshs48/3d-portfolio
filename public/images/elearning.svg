@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <!-- Screen / monitor shape -->
+  <rect x="160" y="80" width="480" height="280" rx="8" fill="none" stroke="#ffffff22" stroke-width="2"/>
+  <rect x="170" y="90" width="460" height="260" rx="4" fill="#ffffff08"/>
+  <!-- Monitor stand -->
+  <rect x="360" y="360" width="80" height="20" rx="2" fill="#ffffff15"/>
+  <rect x="330" y="378" width="140" height="6" rx="3" fill="#ffffff15"/>
+  <!-- Code lines on screen -->
+  <rect x="195" y="120" width="120" height="8" rx="4" fill="#4ade8055"/>
+  <rect x="195" y="140" width="200" height="6" rx="3" fill="#ffffff25"/>
+  <rect x="195" y="158" width="160" height="6" rx="3" fill="#ffffff20"/>
+  <rect x="195" y="176" width="220" height="6" rx="3" fill="#ffffff25"/>
+  <rect x="195" y="194" width="140" height="6" rx="3" fill="#60a5fa55"/>
+  <rect x="195" y="212" width="180" height="6" rx="3" fill="#ffffff20"/>
+  <rect x="195" y="230" width="100" height="6" rx="3" fill="#f59e0b55"/>
+  <!-- Right panel -->
+  <rect x="450" y="110" width="160" height="220" rx="4" fill="#ffffff06" stroke="#ffffff15" stroke-width="1"/>
+  <rect x="465" y="125" width="80" height="8" rx="4" fill="#4ade8055"/>
+  <rect x="465" y="145" width="120" height="5" rx="2" fill="#ffffff20"/>
+  <rect x="465" y="160" width="100" height="5" rx="2" fill="#ffffff18"/>
+  <rect x="465" y="175" width="110" height="5" rx="2" fill="#ffffff20"/>
+  <!-- Progress bar -->
+  <rect x="465" y="200" width="120" height="6" rx="3" fill="#ffffff10"/>
+  <rect x="465" y="200" width="84" height="6" rx="3" fill="#4ade8077"/>
+  <!-- Label -->
+  <text x="400" y="460" font-family="monospace" font-size="18" fill="#ffffff60" text-anchor="middle">E-Learning Management Platform</text>
+  <text x="400" y="482" font-family="monospace" font-size="12" fill="#ffffff35" text-anchor="middle">Java · Spring Boot · MySQL · JUnit</text>
+</svg>
