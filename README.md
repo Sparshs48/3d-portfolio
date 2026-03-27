@@ -8,9 +8,6 @@ Live site: [https://github.com/Sparshs48/3d-portfolio](https://github.com/Sparsh
 
 Software Engineer with 3+ years of experience in Java, Spring Boot, Node.js, React, and cloud-native systems (AWS, Azure, Docker, Kubernetes). Currently at Findways, USA. M.S. Computer Software Engineering — Northeastern University.
 
-Contact: sanghavisparsh1402@gmail.com
-LinkedIn: [linkedin.com/in/sparsh-sanghavi](https://www.linkedin.com/in/sparsh-sanghavi)
-
 ## Tech Stack
 
 ### Core
